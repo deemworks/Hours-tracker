@@ -2,6 +2,8 @@
 
 A mobile-friendly clinical hours tracker for healthcare workers who need to document work hours and locations for license renewal.
 
+[→ Live Demo](https://hours
+
 ## Features
 
 - Log title, employer, employment type, facility, and specialty
